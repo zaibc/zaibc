@@ -1,2 +1,2 @@
-# zaibc
-Offical website
+# Debug 
+npm run docs:dev
