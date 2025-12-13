@@ -3,6 +3,11 @@ title: Preface – Why We Are Here
 description: 'The Ultimate Answer for Individuals, Civilizations, and the Future'
 ---
 📘 *Why We Are Here: The Ultimate Answer for Individuals, Civilizations, and the Future*
+::: warning Copyright Notice
+This manuscript is an original work by the author.  
+All rights are reserved.  
+No part of this manuscript may be reproduced, distributed, or used for commercial purposes without the author’s explicit permission.
+:::
 
 # Preface
 
