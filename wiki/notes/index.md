@@ -6,21 +6,24 @@ description: ''
 # Notice
 
 
-`Please note`: These Notes are personal working records documenting the author’s thinking process during theory formation. They do not constitute formal theoretical statements, proofs, or authoritative definitions.
+`Please note`: this manuscript is a personal record of the author’s thinking process. <br />
+It documents the intuitive reasoning, intermediate assumptions, and evolving understanding that led to the formation of Civilization Causality Theory (CCT) and related ideas.
 
-For formal definitions, structures, and conclusions related to Civilization Causality Theory (CCT) and related work, please refer to the author’s published papers, DOI releases, and corresponding theory pages.
+This text is **not intended to serve as a formal or complete theoretical exposition**.  <br />
+Precise definitions, structural constraints, and rigorously formulated conclusions related to CCT are presented separately in the author’s published papers, DOI releases, and dedicated theory pages.
 
-👉 Chinese version starts [here](/notes/cn/)<br />
-👉 English version coming soon
+👉 The Chinese manuscript begins [here](/notes/cn/). <br />
+👉 An English manuscript will be provided later.
 
 ------
 
 📘《我们为何而来：个体、文明与未来的终极答案》
-# 说明 
 
-`请注意`：本手稿为作者个人的思考记录，仅用于保存理论形成过程中的推演轨迹与阶段性理解，并不构成正式理论文本。
+# 说明
 
-与 Civilization Causality Theory（CCT）及相关理论有关的正式定义、结构与结论，请以作者已公开发表的论文、DOI 版本及对应理论页面为准。
+`请注意`：本手稿为作者个人的思考记录，用于保存 Civilization Causality Theory（CCT）及相关思想在形成过程中的推演轨迹、直觉判断与阶段性理解，而非一套经过形式化整理的理论文本。
 
-👉 中文版手稿从此处[开始](/notes/cn/)<br />
+与 CCT 及相关理论有关的正式定义、结构约束与结论，请以作者已公开发表的论文、DOI 版本及对应理论页面为准。
+
+👉 中文版手稿从此处 [开始](/notes/cn/)  
 👉 英文版稍候提供
