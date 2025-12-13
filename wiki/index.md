@@ -4,7 +4,7 @@ layout: home
 hero:
   name: "Zaibc"
   #text: ""
-  tagline: An independent research organization exploring foundational structures of reality, cognition, and intelligence
+  tagline: An independent research space for publishing and coordinating structural theories on civilization, cognition, and intelligence.
   actions:
     - theme: brand
       text: Quick Start
