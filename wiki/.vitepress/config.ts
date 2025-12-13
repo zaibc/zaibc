@@ -12,6 +12,7 @@ export default defineConfig({
       { text: 'CCT', link: '/cct' },
       { text: 'Publications', link: '/publications' },
       { text: 'Notes', link: '/notes' },
+      { text: 'Feedback and Contributions', link: '/feedback-and-contributions' },
       { text: 'About', link: '/about' },
     ],
 
