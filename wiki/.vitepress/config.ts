@@ -48,7 +48,33 @@ export default defineConfig({
             { text: '致读者：虚拟世界与我的自我和解', link: '/notes/cn/chapter_a2' },
           ]
         }
-      ]
+      ],
+      'notes/en': [
+        {
+          text: 'Why We Are Here: The Ultimate Answer for Individuals, Civilizations, and the Future', items: [
+            { text: 'Preface', link: '/notes/en/' },
+            { text: 'How to Begin', link: '/notes/en/chapter_00' },
+            { text: '1. What Is Consciousness', link: '/notes/en/chapter_01' },
+            { text: '2. The Boundaries of Consciousness', link: '/notes/en/chapter_02' },
+            { text: '3. The Meaning of Consciousness', link: '/notes/en/chapter_03' },
+            { text: '4. Finite Life and Experience Density', link: '/notes/en/chapter_04' },
+            { text: '5. The Inevitability of Virtual Worlds', link: '/notes/en/chapter_05' },
+            { text: '6. Why Individuals Are Here', link: '/notes/en/chapter_06' },
+            { text: '7. Civilization as a Causal System', link: '/notes/en/chapter_07' },
+            { text: '8. The Limits of Civilization', link: '/notes/en/chapter_08' },
+            { text: '9. The Meaning of Civilization', link: '/notes/en/chapter_09' },
+            { text: '10. L0 — Native Civilizations', link: '/notes/en/chapter_10' },
+            { text: '11. L1 — Agent Civilizations', link: '/notes/en/chapter_11' },
+            { text: '12. TCS — The Only Possible Way for Civilizations to Communicate', link: '/notes/en/chapter_12' },
+            { text: '13. Forms of TCS and the Handshake Protocol', link: '/notes/en/chapter_13' },
+            { text: '14. What We Can Do', link: '/notes/en/chapter_14' },
+            { text: '15. The Next Hundred Years — L0’s Final Window', link: '/notes/en/chapter_15' },
+            { text: '16. When We Understand a New Scale of Self and Universe', link: '/notes/en/chapter_16' },
+            { text: 'Appendix: When Theory Meets the Real World — Some Necessary Clarifications', link: '/notes/en/chapter_a1' },
+            { text: 'To the Reader: Virtual Worlds and My Reconciliation with Myself', link: '/notes/en/chapter_a2' },
+          ]
+        }
+      ],
     }
     ,
     // socialLinks: [

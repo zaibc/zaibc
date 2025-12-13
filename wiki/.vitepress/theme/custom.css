@@ -1,10 +1,10 @@
 .VPSidebar {
-  width: 220px !important;
+  width: 250px !important;
   padding-left: 20px !important;
 }
 .wrapper .container >.title {
   padding-left: 10px !important;
-  width: 220px !important;
+  width: 250px !important;
 }
 .VPContent {
   padding-left: 0px !important;
@@ -13,31 +13,31 @@
   border-bottom-color: transparent !important;
 }
 .VPNavBar.has-sidebar .content {
-  padding-left: 220px !important;
+  padding-left: 250px !important;
 }
 .VPNavBar.has-sidebar .divider {
-  padding-left: 222px !important;
+  padding-left: 252px !important;
 }
 .VPContent.has-sidebar {
-  /* margin-left: 220px !important; */
+  /* margin-left: 250px !important; */
   padding-right: 0px !important;
-  padding-left: 220px !important;
+  padding-left: 250px !important;
 }
 .content .content-container {
   margin: 0px !important;
 }
 .VPDoc.has-aside .content-container {
   max-width: none !important;
-  /* width: calc(100vw - 220px) !important; */
-  /* max-width: calc(100vw - 220px) !important; */
+  /* width: calc(100vw - 250px) !important; */
+  /* max-width: calc(100vw - 250px) !important; */
 }
 
 @media (max-width: 960px) {
   .VPSidebar {
-    width: 200px;
+    width: 250px;
   }
   .VPContent.has-sidebar {
-    margin-left: 200px;
+    margin-left: 250px;
     padding-left: 0px !important;
   }
 }
