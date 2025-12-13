@@ -12,7 +12,7 @@ It documents the intuitive reasoning, intermediate assumptions, and evolving und
 This text is **not intended to serve as a formal or complete theoretical exposition**.  <br />
 Precise definitions, structural constraints, and rigorously formulated conclusions related to CCT are presented separately in the author’s published papers, DOI releases, and dedicated theory pages.
 
-👉 The English manuscript begins [here](/notes/en/).
+👉 The English manuscript begins [here](/notes/cct-origins/en/).
 
 ------
 
@@ -24,4 +24,4 @@ Precise definitions, structural constraints, and rigorously formulated conclusio
 
 与 CCT 及相关理论有关的正式定义、结构约束与结论，请以作者已公开发表的论文、DOI 版本及对应理论页面为准。
 
-👉 中文版手稿从此处 [开始](/notes/cn/).
+👉 中文版手稿从此处 [开始](/notes/cct-origins/cn/).
