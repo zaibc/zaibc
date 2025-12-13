@@ -24,4 +24,3 @@ hero:
 #   - title: Notes
 #     details: A story about how CCT comes
 ---
-
