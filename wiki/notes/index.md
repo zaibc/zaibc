@@ -2,7 +2,7 @@
 title: Notes
 description: ''
 ---
-
+📘 Why We Are Here: The Ultimate Answer for Individuals, Civilizations, and the Future
 # Notice
 
 
@@ -13,7 +13,10 @@ For formal definitions, structures, and conclusions related to Civilization Caus
 👉 Chinese version starts [here](/notes/cn/)<br />
 👉 English version coming soon
 
-# 说明
+------
+
+📘《我们为何而来：个体、文明与未来的终极答案》
+# 说明 
 
 `请注意`：本手稿为作者个人的思考记录，仅用于保存理论形成过程中的推演轨迹与阶段性理解，并不构成正式理论文本。
 
