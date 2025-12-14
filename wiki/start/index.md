@@ -77,8 +77,8 @@ This site is organized to serve different audiences:
 - Each major component is published with DOI records
 - arXiv submissions correspond to specific sections of this site
 
-👉 Start with **Laws & Framework**  
-👉 See **Publications / DOI** for citable versions
+👉 Start with **[Framework](/cct/)**  
+👉 See **[Publications / DOI](/cct/papers/)** for citable versions
 
 #### 📘 General Readers & Thought Process
 If you are interested in **how the theory was derived**, rather than only the final structure:
@@ -120,9 +120,9 @@ Not to:
 
 ## Where to Go Next
 
-- **Start with the Laws** → understand the structural backbone  
+- **Start with the [framework](/cct/)** → understand the structural backbone  
 - **Explore L0 or L1/L2 tracks** depending on interest  
 - **Read [Notes](/notes/)** for narrative context  
-- **Consult papers / DOI** for formal reference  
+- **[Consult papers / DOI](/cct/papers/)** for formal reference  
 
 > Direction, once aligned, no longer depends on the individual.

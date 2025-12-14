@@ -40,14 +40,19 @@ Some pages are still under preparation; the list reflects the **intended complet
 
 ## Publications
 
-Formal publications related to CCT are listed below.  
-DOI versions are considered the **canonical frozen records**.  
-arXiv entries are provided for visibility and discovery.
+CCT-related materials are released through multiple channels, each serving a distinct role.
 
-| Title | DOI | arXiv | PDF |
-|------|-----|--------------|----|
-| [Civilization Causality Theory: Structural Foundations of Cross-Civilizational Communication](/cct/papers/cct-framework-v1) | [10.5281/zenodo.17877240](https://doi.org/10.5281/zenodo.17877240) | On hold | <a href="/file/cct-framework-v1.pdf" target="_blank">PDF</a> |
-| [Civilization Causality Theory: Causal Incompatibility and the Necessity of TCS](/cct/papers/cct-causal-incompatibility-tcs-necessity-v1) | [10.5281/zenodo.17885844](https://doi.org/10.5281/zenodo.17885844) | Not submitted | <a href="/file/cct-causal-incompatibility-tcs-necessity-v1.pdf" target="_blank">PDF</a> |
+- **This website** is the primary and most up-to-date source,   
+ where the framework, structure, and ongoing developments are presented and organized.
+
+- **DOI records** are published in parallel for each major release.  
+  These versions represent **canonical, immutable snapshots** intended for citation and long-term reference.
+
+- **arXiv submissions** are used for academic visibility and discovery.  
+  They mirror specific DOI releases but may lag due to moderation and review processes.
+
+For a complete and chronological list of releases, including DOI identifiers and arXiv status,  
+please refer to the **[Release History](/cct/papers/)** page.
 
 ## Notes & Non-Formal Writings
 
