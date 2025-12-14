@@ -1,14 +1,13 @@
 ---
-title: Feedback & Contributions
+title: Feedback
 description: ''
 ---
 
-# Feedback & Contributions
+# Feedback
 
 This project is concerned with **structural and conceptual frameworks only**.
 
-The author does **not** provide mathematical proofs, formal derivations,
-or full symbolic formulations of the theory.
+The author does **not** provide mathematical proofs, formal derivations, or full symbolic formulations of the theory.
 
 ## Scope of Discussion
 
@@ -20,15 +19,13 @@ Acceptable feedback and discussion are limited to:
 - Arguments that invalidate or replace a proposed structure
 - High-level alignment or misalignment between components (e.g., L0 / L1 / TCS)
 
-Requests for mathematical rigor, formal proofs, simulations,
-or empirical validation fall outside the author’s scope.
+Requests for mathematical rigor, formal proofs, simulations, or empirical validation fall outside the author’s scope.
 
 ## Contributions
 
 The Civilization Causality Theory (CCT) is presented as a **structural framework**.
 
-Formalization—including mathematics, logic systems, computational models,
-or experimental designs—is explicitly left to the academic community.
+Formalization—including mathematics, logic systems, computational models, or experimental designs—is explicitly left to the academic community.
 
 Contributions are welcome if they:
 
@@ -41,8 +38,7 @@ This project does not act as a governing or approving authority.
 
 ## Communication
 
-If you believe you have identified a structural issue or a meaningful extension,
-you may contact the author:
+If you believe you have identified a structural issue or a meaningful extension, you may contact the author:
 
 **Email:** `feedback@zaibc.com`
 

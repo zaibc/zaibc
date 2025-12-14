@@ -43,8 +43,7 @@ Future work may extend or revise these directions, but no fixed roadmap is impos
 
 ## Discussion and Contact
 
-For discussion **related to the theories themselves**, including structural
-questions or potential contributions, please refer to the **[Feedback & Contributions](/feedback-and-contributions)** page.
+For discussion **related to the theories themselves**, including structural questions or potential contributions, please refer to the **[Feedback](/feedback)** page.
 
 For matters **outside the scope of the theories**, you may contact:
 
