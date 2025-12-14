@@ -89,6 +89,9 @@ export default defineConfig({
     // ],
     footer: {
       message: 'Zaibc @ 2025 <br />Available at <a href="https://zaibc.com">zaibc.com</a> and <a href="https://zaibc.pages.dev">zaibc.pages.dev</a>.'
+    },
+    outline: {
+      level: [2, 6]
     }
   }
 })

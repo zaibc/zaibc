@@ -3,117 +3,63 @@ title: Feedback
 description: ''
 ---
 
-# Feedback & Academic Engagement
+# Feedback & Academic Contribution
 
-Civilization Causality Theory (CCT) is presented as a **structural and conceptual framework**.
+This site primarily accepts **structural feedback** on Civilization Causality Theory (CCT).
 
-The scope of this project is intentionally limited.
+CCT is proposed as a **causal framework**, not as a fully formalized or completed theory.
+Its purpose is to introduce a new structural perspective and to open research directions,
+not to exhaustively resolve all downstream details.
 
-It does **not** aim to provide:
-- Mathematical proofs  
-- Formal symbolic systems  
-- Empirical validation  
-- Simulations or experimental results  
 
-Those directions are left to the academic community.
+## What Kind of Feedback Is Welcome
 
----
+Feedback is welcome **only** when it engages with the theory at the structural level, including:
 
-## Scope of Acceptable Feedback
+- Challenges to the **causal assumptions** used in the framework  
+- Arguments that identify **structural inconsistencies or contradictions**  
+- Counterexamples that would invalidate a proposed necessity (e.g. L1, TCS)  
+- Questions that expose missing structural constraints  
 
-The author welcomes **structural-level feedback only**, including:
+In other words:  
+**If a feedback could potentially falsify or reshape the structure, it is welcome.**
 
-- Internal coherence and consistency of the framework  
-- Completeness or incompleteness of the proposed structure  
-- Identification of missing, redundant, or unnecessary layers  
-- Structural contradictions or incompatibilities  
-- Arguments that invalidate, replace, or subsume a proposed structure  
-- High-level alignment or misalignment between components  
-  (e.g. *Embodied Civilizations / Agent Civilizations / TCS*)
 
-Feedback that primarily requests:
-- Mathematical formalization  
-- Proof obligations  
-- Empirical testing  
-- Simulation results  
+## What Is Outside the Scope
 
-falls **outside the author’s scope** and may not receive a response.
+The author does **not** engage in:
 
----
+- Mathematical formalization or proofs  
+- Model training, simulation, or implementation  
+- Optimization, engineering, or algorithm design  
+- Endless semantic debates or preference-based arguments  
 
-## On “Contributions”
+These are essential research directions — but they belong to the **academic community**, not to the author’s role in this project.
 
-CCT is offered as a **directional framework**, not as a closed or owned theory.
 
-Any formalization efforts — including:
-- Mathematical models  
-- Logical systems  
-- Computational implementations  
-- Empirical or experimental studies  
+## Academic Contribution
 
-are understood to be **independent academic work**.
+CCT is intentionally published as an **open framework**.
 
-Researchers are encouraged to:
-- Develop their own formal treatments  
-- Publish under their own authorship  
-- Critically assess, extend, or replace parts of the framework  
+Researchers, institutions, or independent scholars are encouraged to:
 
-All contributors retain **full ownership** of their work.
+- Formalize parts of the framework (logic, mathematics, causal graphs)
+- Propose alternative constructions or refutations
+- Extend the theory into subdomains
+- Publish independent work building on or challenging CCT
 
-This project does not act as a review board, gatekeeper, or approving authority.
+All such work is considered **the contributor’s own academic contribution**, not derivative ownership.
 
----
 
-## Communication
+## Contact
 
-If you believe you have identified:
-- A structural flaw  
-- A critical omission  
-- A decisive incompatibility  
-- Or a meaningful structural extension  
+For meaningful structural feedback or academic inquiries, please contact:
 
-you may contact the author at:
+📧 **feedback@zaibc.com**
 
-**Email:** `feedback@zaibc.com`
+Please note:
+- Replies are not guaranteed
+- Only structurally relevant inquiries will be considered
 
-Please focus on the **structural point itself** and keep the message concise.
-
-Messages centered on proof requests, validation demands, or implementation details are unlikely to receive a response.
-
----
-
-## Author’s Role and Limits
-
-The author’s involvement is limited to:
-
-- Clarifying the intended meaning of structural concepts  
-- Confirming whether a critique targets the correct abstraction level  
-- Acknowledging unresolved or open structural questions  
-
-The author does **not** commit to:
-
-- Producing formal proofs  
-- Translating the framework into mathematical systems  
-- Participating in extended technical or adversarial debates  
-
----
-
-> This framework opens a direction.  
-> Formal paths beyond it are not centrally owned.
-
-The author’s involvement is limited to:
-
-- Clarifying intended meanings of structural concepts
-- Confirming whether a critique targets the correct level of the framework
-- Acknowledging unresolved or open structural questions
-
-The author does not commit to:
-
-- Providing proofs or equations
-- Translating the framework into formal systems
-- Participating in extended technical debates
-
----
-
-> The framework opens a direction.  
-> Formal paths beyond it are not centrally owned.
+CCT does not require universal agreement.  
+It requires only that its structure withstands serious challenge.

@@ -80,7 +80,7 @@ This site is organized to serve different audiences:
 👉 Start with **Laws & Framework**  
 👉 See **Publications / DOI** for citable versions
 
-### 📘 General Readers & Thought Process
+#### 📘 General Readers & Thought Process
 If you are interested in **how the theory was derived**, rather than only the final structure:
 
 - Personal notes and essays are available under **Notes**
@@ -89,23 +89,18 @@ If you are interested in **how the theory was derived**, rather than only the fi
 
 👉 Visit **[Notes](/notes/)** (non-technical, narrative-oriented)
 
-#### 💬 Feedback & Discussion
-- Clarifications, structural questions, and critiques are welcome
-- Please direct feedback to the appropriate channel to avoid duplication
+#### 💬 Feedback & Academic Contribution
 
-👉 See **Feedback & Discussion**
+CCT welcomes **structural feedback** and independent academic work.
 
-#### 🤝 Academic Contribution
-CCT is a framework, not a closed system.
+- Feedback is expected to focus on causal structure, necessity, and internal consistency
+- Preference-based disagreement or semantic debate is outside scope
+- Formalization, proofs, and extensions are encouraged — but belong to the contributor
 
-Contributions are welcome in the form of:
-- Formalization (mathematics, logic, causal models)
-- Counterexamples or falsification attempts
-- Extensions or alternative constructions of TCS
+The author does not claim ownership over future development of the theory.  
+CCT is presented as a framework to be examined, challenged, and extended by the academic community.
 
-The author does **not** claim sole ownership of future development.
-
-👉 See **Contribution Guidelines**
+👉 See **[Feedback](/feedback)**
 
 ## Status & Scope
 
