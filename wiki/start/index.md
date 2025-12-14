@@ -23,22 +23,24 @@ It is a **structural framework** that derives its conclusions from causal consis
 
 CCT focuses on two fundamentally different layers of civilization:
 
-#### L0 — Mortal (Biological) Civilizations
-At the level of individual, biologically grounded civilizations (L0), CCT addresses:
+#### L0 — Embodied Civilizations
 
-- Why most civilizations do **not** appear to expand or communicate at cosmic scale  
-- Why long-term survival is structurally constrained by time, scale, and mortality  
-- Why **virtualization and inward convergence** are likely end states rather than outward expansion  
+At the level of **embodied civilizations** (L0), where causal processes remain bound to non-transferable substrates, CCT addresses:
 
-These results provide a structural explanation for:
+- Why most civilizations do **not** expand or communicate at cosmic scale  
+- Why long-term continuity is structurally constrained by time, scale, and irreversibility  
+- Why **virtualization and inward convergence** are more stable end states than outward expansion  
+
+These structural conclusions provide explanations for:
+
 - The Fermi Paradox  
 - The absence of observable large-scale astroengineering  
-- The long-term silence of advanced civilizations  
+- The persistent silence of advanced civilizations  
 
-#### L1 / L2 — Proxy Civilizations & Communication
+#### L1 / L2 — Agent Civilizations & Communication
 At higher layers, CCT examines civilizations that attempt to overcome L0 limitations:
 
-- **L1**: Proxy civilizations created to overcome scale and time constraints (search, exploration)
+- **L1**: Agent civilizations created to overcome scale and time constraints (search, exploration)
 - **L2**: The **Third Causal System (TCS / MSCS)** — the minimal shared causal substrate required for communication
 
 CCT shows that:

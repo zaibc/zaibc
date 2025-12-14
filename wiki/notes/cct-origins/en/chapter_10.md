@@ -1,10 +1,10 @@
 ---
-title: 'Chapter 10: L0 — Native Civilizations – Why We Are Here'
+title: 'Chapter 10: L0 — Embodied Civilizations – Why We Are Here'
 description: 'The Ultimate Answer for Individuals, Civilizations, and the Future'
 ---
 📘 *Why We Are Here: The Ultimate Answer for Individuals, Civilizations, and the Future*
 
-# Chapter 10: L0 — Native Civilizations
+# Chapter 10: L0 — Embodied Civilizations
 
 To understand the position of civilization in the universe, we must begin with the most fundamental category of civilization—**L0, native civilization**. This is the form of civilization that arises naturally in the universe, and it is the level at which you and I currently exist.
 
