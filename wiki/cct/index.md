@@ -38,8 +38,6 @@ Some pages are still under preparation; the list reflects the **intended complet
 
 → **[Concepts Index](./concepts/)**
 
----
-
 ## Publications
 
 Formal publications related to CCT are listed below.  
@@ -51,15 +49,11 @@ arXiv entries are provided for visibility and discovery.
 | [Civilization Causality Theory: Structural Foundations of Cross-Civilizational Communication](/cct/papers/cct-framework-v1) | [10.5281/zenodo.17877240](https://doi.org/10.5281/zenodo.17877240) | On hold |
 | [Civilization Causality Theory: Causal Incompatibility and the Necessity of TCS](/cct/papers/cct-causal-incompatibility-tcs-necessity-v1) | [10.5281/zenodo.17885844](https://doi.org/10.5281/zenodo.17885844) | Not submitted |
 
----
-
 ## Notes & Non-Formal Writings
 
 Personal notes, reasoning traces, and non-formal explanations are maintained separately and **do not constitute the theory itself**.
 
 → **[Author Notes](/notes/)**
-
----
 
 ## Feedback
 

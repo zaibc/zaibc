@@ -19,7 +19,14 @@ export default defineConfig({
       cct: [
         {
           text: 'CCT', items: [
-            { text: 'Overview', link: '/cct/' },
+            { text: 'Home', link: '/cct/' },
+            { text: 'Overview', link: '/cct/overview' },
+          ]
+        },
+        {
+          text: 'Papers', items: [
+            { text: 'CCT Framework', link: '/cct/papers/cct-framework-v1' },
+            { text: 'CCT Causal Incompatibility and the Necessity of TCS', link: '/cct/papers/cct-causal-incompatibility-tcs-necessity-v1' },
           ]
         }
       ],
