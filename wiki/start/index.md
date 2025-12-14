@@ -4,7 +4,21 @@ description: ''
 ---
 # Civilization Causality Theory (CCT)
 
-> Chinese version provided [here](/start/cn/).
+> Chinese version provided [here](/start/cn/).  
+> English pages are canonical; Chinese pages are translations for accessibility.
+
+## Start Here
+
+If you are new to CCT, choose a path below:
+
+- **I want the theory itself**  
+  → Read the **CCT [Overview](/cct/overview)** and **Concepts** sections
+
+- **I need citable academic records**  
+  → See **[Release History](/cct/papers/) (DOI / arXiv)**
+
+- **I want to understand how this theory emerged**  
+  → Read **[Notes](/notes/)** (non-technical, narrative)
 
 ## What is CCT
 
@@ -125,4 +139,6 @@ Not to:
 - **Read [Notes](/notes/)** for narrative context  
 - **[Consult papers / DOI](/cct/papers/)** for formal reference  
 
-> Direction, once aligned, no longer depends on the individual.
+---
+
+Direction, once aligned, no longer depends on the individual.

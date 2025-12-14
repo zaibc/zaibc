@@ -35,7 +35,8 @@ to both the theories presented and the author’s approach.
   understanding.
 
 - **Structural Reasoning Theory (SRT)**  
-  A second framework currently in preparation, examining the structural conditions that make the discovery of theories such as CCT possible.  
+  SRT studies how new structural theories become possible—i.e., the mechanism of “finding doors,” not merely walking inside them.   
+  Currently it is in preparation, examining the structural conditions that make the discovery of theories such as CCT possible.  
   SRT is concerned not with specific conclusions, but with how new structural frameworks can be formed in the first place.
 
 Future work may extend or revise these directions, but no fixed roadmap is imposed.

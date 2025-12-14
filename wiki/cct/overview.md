@@ -11,8 +11,6 @@ Civilization Causality Theory derives its conclusions from a small number of str
 The following reasoning summarizes why the trajectories of L0, L1, and L2 are not optional outcomes,
 but causal necessities.
 
----
-
 ## I. Why Embodied Civilizations (L0) Converge Toward Virtualization
 
 The long-term trajectory of embodied civilizations follows directly from the structural properties of consciousness.
@@ -38,7 +36,6 @@ The long-term trajectory of embodied civilizations follows directly from the str
 From these properties, virtualization is not a cultural preference or technological accident,
 but the **structurally stable end state** of embodied civilizations.
 
----
 
 ## II. Why Agent Civilizations (L1) and the Third Causal System (L2) Are Necessary
 
@@ -74,7 +71,6 @@ A different set of constraints applies once a civilization persists beyond indiv
 This Third Causal System (TCS) is not a language or protocol,
 but a **shared causal structure** readable and writable by both sides.
 
----
 
 ## Structural Conclusion
 
