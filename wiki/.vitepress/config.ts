@@ -95,6 +95,11 @@ export default defineConfig({
     },
     outline: {
       level: [2, 6]
-    }
-  }
+    },
+  },
+  sitemap: {
+    hostname: 'https://zaibc.com',
+    lastmodDateOnly: true
+  },
+  lastUpdated: true
 })
