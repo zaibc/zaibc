@@ -28,6 +28,7 @@ export default defineConfig({
             { text: 'Release History', link: '/cct/papers/' },
             { text: 'CCT Framework', link: '/cct/papers/cct-framework-v1' },
             { text: 'CCT Causal Incompatibility and the Necessity of TCS', link: '/cct/papers/cct-causal-incompatibility-tcs-necessity-v1' },
+            { text: 'CCT The TCS and Minimal Handshake Protocols', link: '/cct/papers/cct-tcs-and-minimal-handshake-protocols-v1' },
           ]
         }
       ],
