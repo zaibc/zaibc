@@ -98,8 +98,7 @@ export default defineConfig({
     },
   },
   sitemap: {
-    hostname: 'https://zaibc.com',
-    lastmodDateOnly: true
+    hostname: 'https://zaibc.com'
   },
   lastUpdated: true
 })
