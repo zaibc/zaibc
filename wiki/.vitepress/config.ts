@@ -30,6 +30,7 @@ export default defineConfig({
             { text: 'CCT Causal Incompatibility and the Necessity of TCS', link: '/cct/papers/cct-causal-incompatibility-tcs-necessity-v1' },
             { text: 'CCT The TCS and Minimal Handshake Protocols', link: '/cct/papers/cct-tcs-and-minimal-handshake-protocols-v1' },
             { text: 'CCT A Reference Implementation of Minimal Handshake in Agent Civilizations', link: '/cct/papers/cct-a-reference-implementation-of-minimal-handshake-in-agent-civilizations-v1' },
+            { text: 'CCT Embodied Civilizations and the Structural Convergence Toward Virtualization', link: '/cct/papers/cct-embodied-civilizations-and-the-structural-convergence-toward-virtualization-v1' },
           ]
         }
       ],
