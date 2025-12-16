@@ -31,6 +31,7 @@ export default defineConfig({
             { text: 'CCT The TCS and Minimal Handshake Protocols', link: '/cct/papers/cct-tcs-and-minimal-handshake-protocols-v1' },
             { text: 'CCT A Reference Implementation of Minimal Handshake in Agent Civilizations', link: '/cct/papers/cct-a-reference-implementation-of-minimal-handshake-in-agent-civilizations-v1' },
             { text: 'CCT Embodied Civilizations and the Structural Convergence Toward Virtualization', link: '/cct/papers/cct-embodied-civilizations-and-the-structural-convergence-toward-virtualization-v1' },
+            { text: 'CCT Agent Civilizations and the Structural Necessity of Inter-Civilizational Search', link: '/cct/papers/cct-agent-civilizations-and-the-structural-necessity-of-inter-civilizational-search-v1' },
           ]
         }
       ],
