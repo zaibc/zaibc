@@ -27,3 +27,7 @@ The purpose of this work is to establish a direction, not to exhaust its consequ
 Further elaboration, formalization, or application is intentionally left open.
 
 No additional CCT papers are currently planned by the author.
+
+## Future Work
+
+- The variable scale of civilizational individuals, which may limit detectability, is considered an important factor in the Fermi Paradox and may be addressed in future updates.
