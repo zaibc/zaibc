@@ -32,6 +32,7 @@ export default defineConfig({
             { text: 'CCT A Reference Implementation of Minimal Handshake in Agent Civilizations', link: '/cct/papers/cct-a-reference-implementation-of-minimal-handshake-in-agent-civilizations-v1' },
             { text: 'CCT Embodied Civilizations and the Structural Convergence Toward Virtualization', link: '/cct/papers/cct-embodied-civilizations-and-the-structural-convergence-toward-virtualization-v1' },
             { text: 'CCT Agent Civilizations and the Structural Necessity of Inter-Civilizational Search', link: '/cct/papers/cct-agent-civilizations-and-the-structural-necessity-of-inter-civilizational-search-v1' },
+            { text: 'CCT Structural Implications for the Fermi Paradox, Dark Forest Hypotheses, and Anomalous Contact Phenomena', link: '/cct/papers/cct-structural-implications-for-the-fermi-paradox-dark-forest-hypotheses-and-anomalous-contact-phenomena-v1' },
           ]
         }
       ],
