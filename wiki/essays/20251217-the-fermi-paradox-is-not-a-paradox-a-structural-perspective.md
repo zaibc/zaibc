@@ -161,7 +161,7 @@ but to show that the paradox itself depends on unexamined assumptions.
 If those assumptions are relaxed,
 the question “Where is everybody?” may simply be the wrong question to ask.
 
-### Further Reading
+## Further Reading
 
 This essay presents a structural perspective rather than a formal theory.
 Readers interested in precise definitions and causal arguments may refer to:
