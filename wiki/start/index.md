@@ -15,7 +15,7 @@ If you are new to CCT, choose a path below:
   → Read the **CCT [Overview](/cct/overview)** and **Concepts** sections
 
 - **I need citable academic records**  
-  → See **[Release History](/cct/papers/) (DOI / arXiv)**
+  → See **[Release History](/cct/papers/) (DOI)**
 
 - **I want to understand how this theory emerged**  
   → Read **[Notes](/notes/)** (non-technical, narrative)
@@ -89,7 +89,6 @@ This site is organized to serve different audiences:
 #### 📄 Academic Readers
 - Formal definitions, structure, and claims are presented as papers
 - Each major component is published with DOI records
-- arXiv submissions correspond to specific sections of this site
 
 👉 Start with **[Framework](/cct/)**  
 👉 See **[Publications / DOI](/cct/papers/)** for citable versions

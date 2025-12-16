@@ -48,10 +48,7 @@ CCT-related materials are released through multiple channels, each serving a dis
 - **DOI records** are published in parallel for each major release.  
   These versions represent **canonical, immutable snapshots** intended for citation and long-term reference.
 
-- **arXiv submissions** are used for academic visibility and discovery.  
-  They mirror specific DOI releases but may lag due to moderation and review processes.
-
-For a complete and chronological list of releases, including DOI identifiers and arXiv status,  
+For a complete and chronological list of releases, including DOI identifiers,  
 please refer to the **[Release History](/cct/papers/)** page.
 
 ## Notes & Non-Formal Writings
