@@ -10,6 +10,7 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: 'Start', link: '/start' },
       { text: 'CCT', link: '/cct' },
+      { text: 'SRT', link: '/srt' },
       { text: 'Notes', link: '/notes' },
       { text: 'Feedback', link: '/feedback' },
       { text: 'About', link: '/about' },
