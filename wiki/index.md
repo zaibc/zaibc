@@ -1,5 +1,6 @@
 ---
 layout: home
+title: 'Zaibc - An independent research space for publishing and coordinating structural theories on civilization, cognition, and intelligence.'
 
 hero:
   name: "Zaibc"
