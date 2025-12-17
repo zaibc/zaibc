@@ -166,6 +166,6 @@ the question “Where is everybody?” may simply be the wrong question to ask.
 This essay presents a structural perspective rather than a formal theory.
 Readers interested in precise definitions and causal arguments may refer to:
 
-- **[CCT Overview](/cct/overview)** – a compact structural summary  
-- **[CCT Papers](/cct/papers/)** – formalized arguments and extensions  
-- **[Notes](/notes/)** – a non-technical record of how the theory emerged
+- **[CCT Overview](/cct/overview)**: a compact structural summary  
+- **[CCT Papers](/cct/papers/)**: formalized arguments and extensions  
+- **[Notes](/notes/)**: a non-technical record of how the theory emerged

@@ -28,4 +28,4 @@ hero:
 # Civilization Causality Theory (CCT) 
 - It explains why advanced civilizations do not expand or communicate directly.
 - It resolves the Fermi Paradox and structurally invalidates Dark Forest assumptions. [*[read more](/essays/20251217-the-fermi-paradox-is-not-a-paradox-a-structural-perspective)*] 
-- Contact, if it exists, can only occur through non-semantic minimal causal interaction.
+- Contact, if it exists, can only occur through non-semantic minimal causal interaction. [*[read more](/essays/20251218-ufos-as-a-structural-phenomenon)*]
