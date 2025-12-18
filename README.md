@@ -1,3 +1,14 @@
+# Zaibc Website
+
+This repository contains the source files for the Zaibc.com website.
+
+It is built with VitePress and is used to generate and publish content related to:
+- Civilization Causality Theory (CCT)
+- Structural Research Theory (SRT)
+- Notes and essays documenting the theory formation process
+
+This repository is for website generation and maintenance only.
+
 ## License
 
 All written content and theoretical material in this repository is licensed under  
@@ -13,4 +24,5 @@ The Notes are shared for reading, reflection, and discussion purposes.
 ## Debug 
 
 npm run docs:dev
+
 
