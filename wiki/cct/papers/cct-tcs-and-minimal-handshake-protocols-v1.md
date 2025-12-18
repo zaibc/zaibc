@@ -5,6 +5,7 @@ date: "15 Dec 2025"
 ---
 
 # Civilization Causality Theory: The Third Causal System and Minimal Handshake Protocols
+> 15 Dec 2025 by **Chenliang Zhao**
 
 ## Abstract
 

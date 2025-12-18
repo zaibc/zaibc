@@ -5,6 +5,7 @@ date: "15 Dec 2025"
 ---
 
 # Civilization Causality Theory: A Reference Implementation of Minimal Handshake in Agent Civilizations
+> 15 Dec 2025 by **Chenliang Zhao**
 
 ## Abstract
 

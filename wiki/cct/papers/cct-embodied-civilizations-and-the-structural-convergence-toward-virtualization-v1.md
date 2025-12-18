@@ -5,6 +5,7 @@ date: "16 Dec 2025"
 ---
 
 # Civilization Causality Theory: Embodied Civilizations and the Structural Convergence Toward Virtualization
+> 16 Dec 2025 by **Chenliang Zhao**
 
 ## Abstract
 
