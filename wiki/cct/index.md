@@ -19,7 +19,8 @@ CCT provides a structural framework for reasoning about:
 
 A concise, top-down overview of the complete CCT framework — from embodied civilizations to agent civilizations and the necessity of TCS.
 
-→ **[Read the Overview](./overview.md)**
+→ **[Read the Overview](./overview.md)**  
+→ **[Read the White Paper](./papers/cct-white-paper-v1.md)**
 
 ## Core Concepts
 
@@ -35,8 +36,6 @@ Some pages are still under preparation; the list reflects the **intended complet
 - Communication as Causal Co-construction
 - Virtualization and Inward Convergence
 - Civilization as a Time-Bound Causal Process
-
-→ **[Concepts Index](./concepts/)**
 
 ## Publications
 
