@@ -1,14 +1,14 @@
 ---
 layout: home
-title: 'Zaibc - An independent research space for publishing and coordinating structural theories on civilization, cognition, and intelligence.'
+title: 'Zaibc - A structural research space exploring civilization, cognition, and intelligence: from first principles, beyond conventional assumptions.'
 
 hero:
   name: "Zaibc"
   #text: ""
-  tagline: An independent research space for publishing and coordinating structural theories on civilization, cognition, and intelligence.
+  tagline: 'A structural research space exploring civilization, cognition, and intelligence: from first principles, beyond conventional assumptions.'
   actions:
     - theme: brand
-      text: Quick Start
+      text: Explore the Theory
       link: /start
     # - theme: alt
     #   text: CCT
@@ -26,7 +26,17 @@ hero:
 #     details: A story about how CCT comes
 ---
 # Civilization Causality Theory (CCT) 
-> Read: [CCT White Paper](/cct/papers/cct-white-paper-v1)
-- It explains why advanced civilizations do not expand or communicate directly.
-- It resolves the Fermi Paradox and structurally invalidates Dark Forest assumptions. [*[read more](/essays/20251217-the-fermi-paradox-is-not-a-paradox-a-structural-perspective)*] 
-- Contact, if it exists, can only occur through non-semantic minimal causal interaction. [*[read more](/essays/20251218-ufos-as-a-structural-phenomenon)*]
+
+> CCT treats civilizations as self-consistent causal systems,   
+> and derives consequences from structural constraints rather than observation. 
+
+- Why advanced civilizations may converge inward rather than expand or communicate. [*[read more](/cct/overview)*] 
+- Why the Fermi Paradox is not a paradox under structural constraints. [*[read more](/essays/20251217-the-fermi-paradox-is-not-a-paradox-a-structural-perspective)*] 
+- Why any possible contact, if it exists, would have to be non-semantic, minimal, and indirect. [*[read more](/essays/20251218-ufos-as-a-structural-phenomenon)*]
+
+
+## Where to begin:
+
+- For a formal overview: **[CCT Overview](/cct/overview)** | **[CCT White Paper](/cct/papers/cct-white-paper-v1)**
+- For intuitive essays: **[Notes](/notes/)**
+- For discussion and critique: **[Feedback](/feedback)**

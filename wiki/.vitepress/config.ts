@@ -4,7 +4,7 @@ export default defineConfig({
   ignoreDeadLinks: true,
   cleanUrls: true,
   title: "Zaibc",
-  description: "An independent research organization exploring foundational structures of reality, cognition, and intelligence",
+  description: "A structural research space exploring civilization, cognition, and intelligence: from first principles, beyond conventional assumptions.",
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
