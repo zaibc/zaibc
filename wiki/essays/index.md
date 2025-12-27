@@ -7,6 +7,7 @@ description: ''
 
 > Derived from the structural frameworks developed on this site, written to explore concrete questions in intelligence, civilization, and technology: without assuming academic background.
 
+- [Why Training on More Data Cannot Produce AGI](/essays/20251227-why-training-on-more-data-cannot-produce-agi) *27 Dec 2025*
 - [Why AI Without Consciousness May Be More Dangerous, Not Safer](/essays/20251227-why-ai-without-consciousness-may-be-more-dangerous-not-safer) *27 Dec 2025*
 - [How to Control AI Safely Without Limiting Its Capability](/essays/20251227-how-to-control-ai-safely-without-limiting-its-capability) *27 Dec 2025*
 - [Why Scaling Intelligence Plateaus Without Structural Closure](/essays/20251227-why-scaling-intelligence-plateaus-without-structural-closure) *27 Dec 2025*
