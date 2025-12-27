@@ -34,9 +34,23 @@ hero:
 - Why the Fermi Paradox is not a paradox under structural constraints. [*[read more](/essays/20251217-the-fermi-paradox-is-not-a-paradox-a-structural-perspective)*] 
 - Why any possible contact, if it exists, would have to be non-semantic, minimal, and indirect. [*[read more](/essays/20251218-ufos-as-a-structural-phenomenon)*]
 
-
 ## Where to begin:
 
 - For a formal overview: **[CCT Overview](/cct/overview)** | **[CCT White Paper](/cct/papers/cct-white-paper-v1)**
 - For intuitive essays: **[Notes](/notes/)**
-- For discussion and critique: **[Feedback](/feedback)**
+
+--- 
+<br />
+
+# Structural Reasoning Theory (SRT)
+
+> SRT explains **how structural theories like CCT become possible at all**—by identifying the minimal architecture required for intelligence to generate and stabilize structure.
+
+- Why scaling intelligence plateaus without structural closure.
+- Why genuine intelligence requires separation between free reasoning and constrained execution.
+- Why long-term safety cannot rely on fixed goals, but on structurally inescapable constraints. [read more]
+
+## Where to begin:
+
+- For a formal overview: **[SRT Overview](/srt/overview)** | **[SRT White Paper](/srt/srt-white-paper-v1)**
+- For intuitive essays: **[Notes](/notes/)**

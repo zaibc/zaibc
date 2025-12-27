@@ -25,7 +25,7 @@ A concise, top-down overview of the complete CCT framework — from embodied civ
 ## Core Concepts
 
 The following concepts form the structural backbone of CCT.  
-Some pages are still under preparation; the list reflects the **intended complete framework**.
+The list reflects the **intended complete framework**.
 
 - Embodied Civilizations (L0)
 - Agent Civilizations (L1)

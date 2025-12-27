@@ -5,16 +5,16 @@ description: ''
 
 # Structural Reasoning Theory (SRT)
 
-Structural Reasoning Theory (SRT) is a **meta-theoretical framework** that examines *how structural discoveries such as CCT become possible in the first place.*
+Structural Reasoning Theory (SRT) is a framework for understanding **how genuinely new structures are discovered**,  
+and why intelligence cannot be reduced to scale, data, or optimization.
 
-SRT does not extend CCT. It explains its **origin**. It focuses on:
-- structure-first reasoning
-- pre-logical constraint discovery
-- why certain theories emerge outside established academic pipelines
+SRT explains **why theories like CCT become possible in the first place**.
 
-SRT is currently under active reflection and is **not presented as a formal theory or publication roadmap**.
+→ Read the **[SRT Overview](/srt/overview)**  
+→ Read the **[SRT White Paper](/srt/srt-white-paper-v1)**
 
-> Early fragments of SRT are recorded in the Notes section as part of the author’s self-analysis during CCT’s development.
+SRT focuses on structure-first reasoning, pre-logical constraint discovery, 
+and the separation between unrestricted thinking and constrained execution.
 
 ## Release History
 

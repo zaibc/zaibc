@@ -38,6 +38,15 @@ export default defineConfig({
           ]
         }
       ],
+      srt: [
+        {
+          text: 'SRT', items: [
+            { text: 'Home', link: '/srt/' },
+            { text: 'Overview', link: '/srt/overview' },
+            { text: 'White Paper', link: '/srt/srt-white-paper-v1' },
+          ]
+        }
+      ],
       'notes/cct-origins/cn': [
         {
           text: '《我们为何而来：个体、文明与未来的终极答案》', items: [

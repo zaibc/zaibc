@@ -9,7 +9,7 @@ description: ''
 
 It exists to publish and host theoretical frameworks such as 
 **Civilization Causality Theory (CCT)** and related work, including 
-**Structural Reasoning Theory (SRT)** (in preparation), and to provide a stable reference point for their discussion and development.
+**Structural Reasoning Theory (SRT)**, and to provide a stable reference point for their discussion and development.
 
 **Zaibc** is not a research institution, funding body, or academic authority.   
 It functions solely as a publication and coordination space for ideas.
@@ -36,7 +36,7 @@ to both the theories presented and the author’s approach.
 
 - **Structural Reasoning Theory (SRT)**  
   SRT studies how new structural theories become possible—i.e., the mechanism of “finding doors,” not merely walking inside them.   
-  Currently it is in preparation, examining the structural conditions that make the discovery of theories such as CCT possible.  
+  It is exams the structural conditions that make the discovery of theories such as CCT possible.  
   SRT is concerned not with specific conclusions, but with how new structural frameworks can be formed in the first place.
 
 Future work may extend or revise these directions, but no fixed roadmap is imposed.
