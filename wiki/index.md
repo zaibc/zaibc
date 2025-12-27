@@ -46,9 +46,8 @@ hero:
 
 > SRT explains **how structural theories like CCT become possible at all**—by identifying the minimal architecture required for intelligence to generate and stabilize structure.
 
-- Why scaling intelligence plateaus without structural closure.
-- Why genuine intelligence requires separation between free reasoning and constrained execution.
-- Why long-term safety cannot rely on fixed goals, but on structurally inescapable constraints. [read more]
+- Why scaling intelligence plateaus without structural closure. [*[read more](/essays/20251227-why-scaling-intelligence-plateaus-without-structural-closure)*]
+- How to control AI safely without limiting its capability. [*[read more](/essays/20251227-how-to-control-ai-safely-without-limiting-its-capability)*]
 
 ## Where to begin:
 
