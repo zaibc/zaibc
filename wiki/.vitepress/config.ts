@@ -11,6 +11,7 @@ export default defineConfig({
       { text: 'Start', link: '/start' },
       { text: 'CCT', link: '/cct' },
       { text: 'SRT', link: '/srt' },
+      { text: 'Essays', link: '/essays' },
       { text: 'Notes', link: '/notes' },
       { text: 'Feedback', link: '/feedback' },
       { text: 'About', link: '/about' },
