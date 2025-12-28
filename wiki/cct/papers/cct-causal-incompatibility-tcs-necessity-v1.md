@@ -14,7 +14,7 @@ keywords: "Causal Systems; Semantic Alignment; Cross-Civilizational Communicatio
 ## Abstract
 
 This paper develops the second component of **Civilization Causality Theory (CCT)**.  
-We show that independently evolved civilizations are **causal systems without alignable semantic substrates**, implying that **direct communication is structurally impossible**. To overcome this, we introduce the concept of a **Third Causal System (TCS)**—a neutral, jointly constructed causal substrate that functions as the *minimal shared semantic layer* between two civilizations. Human cases involving cross-language acquisition and cross-cultural communication provide empirical analogues of TCS formation. We conclude that all feasible cross-civilizational communication must occur **through** such a jointly evolved causal system rather than direct signal interpretation. This result reframes the structure of inter-civilizational contact and provides a foundational explanation for the Fermi paradox [@Bracewell1960].
+We show that independently evolved civilizations are **causal systems without alignable semantic substrates**, implying that **direct communication is structurally impossible**. To overcome this, we introduce the concept of a **Third Causal System (TCS)**—a neutral, jointly constructed causal substrate that functions as the *minimal shared semantic layer* between two civilizations. Human cases involving cross-language acquisition and cross-cultural communication provide empirical analogues of TCS formation. We conclude that all feasible cross-civilizational communication must occur **through** such a jointly evolved causal system rather than direct signal interpretation. This result reframes the structure of inter-civilizational contact and provides a foundational explanation for the Fermi paradox [1].
 
 ## 1. Introduction
 
@@ -94,7 +94,7 @@ These examples do not suggest that extraterrestrial civilizations resemble human
 
 ## 6. Structural Consequences
 
-These considerations have several structural consequences. First, no civilization can directly interpret the signals of another, because no interpretation is verifiable without a shared causal substrate. Second, whenever a TCS is absent, all putative communication collapses into guesswork, regardless of the technology involved. Third, the Fermi paradox acquires a natural explanation: what appears to be cosmic silence may simply reflect our inability to achieve causal compatibility with independently evolved systems [@Bracewell1960] [@Hart1975].
+These considerations have several structural consequences. First, no civilization can directly interpret the signals of another, because no interpretation is verifiable without a shared causal substrate. Second, whenever a TCS is absent, all putative communication collapses into guesswork, regardless of the technology involved. Third, the Fermi paradox acquires a natural explanation: what appears to be cosmic silence may simply reflect our inability to achieve causal compatibility with independently evolved systems [1] [2].
 
 These conclusions arise from the structure of causality itself, rather than from contingent astrophysical, biological, or sociological assumptions.
 
@@ -105,3 +105,7 @@ This chapter has argued that the existence of a Third Causal System (TCS) is not
 The broader theoretical program continues beyond this foundational result. Future work will develop a formal account of causal alignment, specify constructive procedures for generating TCS-like systems, articulate a general Causal Incompatibility Theorem, and explore the observational implications for SETI, astrobiology, and other inquiries into civilizational contact.
 
 ## References
+
+[1] Bracewell R N 1960 Communications from superior galactic communities Nature **186** 670–1
+[2] Hart M H 1975 An explanation for the absence of extraterrestrials on earth Quarterly Journal of the Royal
+Astronomical Society **16** 128–35

@@ -103,7 +103,7 @@ TCS is required because:
 2. No shared meaning system can emerge directly between civilizations.
 3. Direct alignment of causal frameworks is impossible.
 
-This requirement echoes Bracewell's proposal of neutral interstellar relays [@Bracewell1960] and Hart's structural explanation for extraterrestrial silence [@Hart1975].
+This requirement echoes Bracewell's proposal of neutral interstellar relays [1] and Hart's structural explanation for extraterrestrial silence [2].
 
 Therefore:
 
@@ -161,3 +161,7 @@ Civilization Causality Theory reframes civilizations as **causal systems** and e
 Further versions will introduce formalism, proofs, and extended implications.
 
 ## References
+
+[1] Bracewell R N 1960 Communications from superior galactic communities Nature **186** 670–1   
+[2] Hart M H 1975 An explanation for the absence of extraterrestrials on earth Quarterly Journal of the Royal
+Astronomical Society **16** 128–35
