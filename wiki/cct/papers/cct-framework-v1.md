@@ -5,7 +5,7 @@ date: "27 Nov 2025"
 keywords: ["SETI", "causal systems", "extraterrestrial communication"]
 ---
 
-# Civilization Causality Theory: Structural Foundations of Cross-Civilizational Communication
+# Civilization Causality Theory: Framework Release
 
 > 27 Nov 2025 by **Chenliang Zhao**   
 > **DOI:** https://doi.org/10.5281/zenodo.17877240  
