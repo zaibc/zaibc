@@ -6,6 +6,9 @@ date: "27 Dec 2025"
 
 # Structural Reasoning Theory (SRT): Foundations and Implications  
 *A White Paper*
+> 27 Dec 2025 by **Chenliang Zhao**  
+> **DOI:** https://doi.org/10.5281/zenodo.18065381  
+> **Canonical web version:** https://www.zaibc.com/srt/srt-white-paper-v1
 
 ## Abstract
 

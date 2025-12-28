@@ -5,7 +5,9 @@ date: "16 Dec 2025"
 ---
 
 # Civilization Causality Theory: Structural Implications for the Fermi Paradox, Dark Forest Hypotheses, and Anomalous Contact Phenomena
-> 16 Dec 2025 by **Chenliang Zhao**
+> 16 Dec 2025 by **Chenliang Zhao**   
+> **DOI:** https://doi.org/10.5281/zenodo.17946816  
+> **Canonical web version:** https://www.zaibc.com/cct/papers/cct-structural-implications-for-the-fermi-paradox-dark-forest-hypotheses-and-anomalous-contact-phenomena-v1
 
 ## Abstract
 

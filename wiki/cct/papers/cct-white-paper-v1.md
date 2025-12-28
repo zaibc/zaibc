@@ -6,7 +6,9 @@ date: "18 Dec 2025"
 ---
 
 # Civilization Causality Theory: White Paper
-> 18 Dec 2025 by **Chenliang Zhao**
+> 18 Dec 2025 by **Chenliang Zhao**   
+> **DOI:** https://doi.org/10.5281/zenodo.17970195  
+> **Canonical web version:** https://www.zaibc.com/cct/papers/cct-white-paper-v1
 
 ## Abstract
 

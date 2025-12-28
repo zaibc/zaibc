@@ -7,7 +7,9 @@ keywords: "Causal Systems; Semantic Alignment; Cross-Civilizational Communicatio
 
 # Civilization Causality Theory: Causal Incompatibility and the Necessity of TCS
 
-> 3 Dec 2025 by **Chenliang Zhao**
+> 3 Dec 2025 by **Chenliang Zhao**   
+> **DOI:** https://doi.org/10.5281/zenodo.17885844  
+> **Canonical web version:** https://www.zaibc.com/cct/papers/cct-causal-incompatibility-tcs-necessity-v1
 
 ## Abstract
 

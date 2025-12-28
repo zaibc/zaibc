@@ -4,7 +4,9 @@ author: "Chenliang Zhao"
 date: "16 Dec 2025"
 ---
 # Civilization Causality Theory: Agent Civilizations and the Structural Necessity of Inter-Civilizational Search
-> 16 Dec 2025 by **Chenliang Zhao**
+> 16 Dec 2025 by **Chenliang Zhao**   
+> **DOI:** https://doi.org/10.5281/zenodo.17946622  
+> **Canonical web version:** https://www.zaibc.com/cct/papers/cct-agent-civilizations-and-the-structural-necessity-of-inter-civilizational-search-v1
 
 ## Abstract
 
