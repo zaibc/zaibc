@@ -106,6 +106,6 @@ The broader theoretical program continues beyond this foundational result. Futur
 
 ## References
 
-[1] Bracewell R N 1960 Communications from superior galactic communities Nature **186** 670–1
+[1] Bracewell R N 1960 Communications from superior galactic communities Nature **186** 670–1   
 [2] Hart M H 1975 An explanation for the absence of extraterrestrials on earth Quarterly Journal of the Royal
 Astronomical Society **16** 128–35
