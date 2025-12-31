@@ -1,6 +1,6 @@
 ---
 title: How to Begin – Why We Are Here
-description: 'The Ultimate Answer for Individuals, Civilizations, and the Future'
+description: 'Why We Are Here: The Ultimate Answer for Individuals, Civilizations, and the Future'
 ---
 📘 *Why We Are Here: The Ultimate Answer for Individuals, Civilizations, and the Future*
 

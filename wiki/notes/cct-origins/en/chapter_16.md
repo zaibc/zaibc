@@ -1,6 +1,6 @@
 ---
 title: 'Chapter 16: When We Understand a New Scale of Self and Universe – Why We Are Here'
-description: 'The Ultimate Answer for Individuals, Civilizations, and the Future'
+description: 'Why We Are Here: The Ultimate Answer for Individuals, Civilizations, and the Future'
 ---
 📘 *Why We Are Here: The Ultimate Answer for Individuals, Civilizations, and the Future*
 

@@ -1,6 +1,6 @@
 ---
 title: 前言 - 我们为何而来
-description: '个体、文明与未来的终极答案'
+description: '《我们为何而来：个体、文明与未来的终极答案》'
 ---
 📘《我们为何而来：个体、文明与未来的终极答案》
 ::: warning Copyright Notice

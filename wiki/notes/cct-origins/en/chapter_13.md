@@ -1,6 +1,6 @@
 ---
 title: 'Chapter 13: Forms of TCS and the Handshake Protocol – Why We Are Here'
-description: 'The Ultimate Answer for Individuals, Civilizations, and the Future'
+description: 'Why We Are Here: The Ultimate Answer for Individuals, Civilizations, and the Future'
 ---
 📘 *Why We Are Here: The Ultimate Answer for Individuals, Civilizations, and the Future*
 

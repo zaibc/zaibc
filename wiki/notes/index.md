@@ -1,6 +1,6 @@
 ---
 title: Notes
-description: ''
+description: 'Why We Are Here: The Ultimate Answer for Individuals, Civilizations, and the Future'
 ---
 📘 Why We Are Here: The Ultimate Answer for Individuals, Civilizations, and the Future
 # Notice
