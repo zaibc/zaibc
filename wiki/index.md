@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: Explore the Theory
-      link: /start
+      link: /start/
     # - theme: alt
     #   text: CCT
     #   link: /cct

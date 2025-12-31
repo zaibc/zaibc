@@ -8,11 +8,11 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Start', link: '/start' },
-      { text: 'CCT', link: '/cct' },
-      { text: 'SRT', link: '/srt' },
-      { text: 'Essays', link: '/essays' },
-      { text: 'Notes', link: '/notes' },
+      { text: 'Start', link: '/start/' },
+      { text: 'CCT', link: '/cct/' },
+      { text: 'SRT', link: '/srt/' },
+      { text: 'Essays', link: '/essays/' },
+      { text: 'Notes', link: '/notes/' },
       { text: 'Feedback', link: '/feedback' },
       { text: 'About', link: '/about' },
     ],
