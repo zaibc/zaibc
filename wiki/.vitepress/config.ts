@@ -45,6 +45,7 @@ export default defineConfig({
             { text: 'Home', link: '/srt/' },
             { text: 'Overview', link: '/srt/overview' },
             { text: 'White Paper', link: '/srt/srt-white-paper-v1' },
+            { text: 'Extension I: Reception, Continuity, and Selfhood', link: '/srt/srt-extension-1-reception-continuity-and-selfhood-v1' },
           ]
         }
       ],
