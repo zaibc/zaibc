@@ -7,6 +7,7 @@ description: ''
 
 > Derived from the structural frameworks developed on this site, written to explore concrete questions in intelligence, civilization, and technology: without assuming academic background.
 
+- [How Far Is Today’s AI from Being an Agent or AGI](/essays/20260101-how-far-is-todays-ai-from-being-an-agent-or-agi) *1 Jan 2026*
 - [How Long Can Humans Really Live](/essays/20251230-how-long-can-humans-really-live) *30 Dec 2025*
 - [Why the Probability That We Live in a Virtual World Is Higher Than Intuition Suggests](/essays/20251229-why-the-probability-that-we-live-in-a-virtual-world-is-higher-than-intuition-suggests) *29 Dec 2025*
 - [Why Training on More Data Cannot Produce AGI](/essays/20251227-why-training-on-more-data-cannot-produce-agi) *27 Dec 2025*
