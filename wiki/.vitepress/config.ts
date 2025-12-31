@@ -5,6 +5,9 @@ export default defineConfig({
   cleanUrls: true,
   title: "Zaibc",
   description: "A structural research space exploring civilization, cognition, and intelligence: from first principles, beyond conventional assumptions.",
+  head: [
+    ['link', { rel: 'icon', href: '/favicon.ico' }]
+  ],
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
