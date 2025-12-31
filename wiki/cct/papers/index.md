@@ -32,3 +32,5 @@ No additional CCT papers are currently planned by the author.
 ## Future Work
 
 - The variable scale of civilizational individuals, which may limit detectability, is considered an important factor in the Fermi Paradox and may be addressed in future updates.
+
+- Subsequent work (Structural Reasoning Theory, SRT) introduces a finer-grained internal model of intelligence by distinguishing reasoning processes, consciousness, and experiential reception. Future revisions of CCT may incorporate this refinement to clarify the role of individual experience and continuity without altering the core civilizational-level conclusions. [[Read More](/srt/srt-extension-1-reception-continuity-and-selfhood-v1)]
