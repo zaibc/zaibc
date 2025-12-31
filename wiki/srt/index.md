@@ -24,3 +24,4 @@ DOI versions are considered the **canonical frozen records**.
 | Date | Title | Version | DOI | PDF |
 |----|------|----|--------------|----|
 | 27 Dec 2025 | [Structural Reasoning Theory (SRT): Foundations and Implications](/srt/srt-white-paper-v1) | v1.0 | [10.5281/zenodo.18065381](https://doi.org/10.5281/zenodo.18065381) | <a href="/file/srt-white-paper-v1.pdf" target="_blank">PDF</a> |
+| 31 Dec 2025 | [SRT Extension I: Reception, Continuity, and Selfhood](/srt/srt-extension-1-reception-continuity-and-selfhood-v1) | v1.0 | [10.5281/zenodo.18106313](https://doi.org/10.5281/zenodo.18106313) | <a href="/file/srt-extension-1-reception-continuity-and-selfhood-v1.pdf" target="_blank">PDF</a> |
