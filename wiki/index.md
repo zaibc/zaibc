@@ -8,6 +8,12 @@ hero:
   tagline: 'A structural research space exploring civilization, cognition, and intelligence: from first principles, beyond conventional assumptions.'
   actions:
     - theme: brand
+      text: SRT & CCT - A Two-Minute Overview
+      link: /two-minutes-to-understand-this-site
+    - theme: brand
+      text: 两分钟快速了解 SRT 和 CCT
+      link: /two-minutes-to-understand-this-site-cn
+    - theme: alt
       text: Explore the Theory
       link: /start/
     # - theme: alt
