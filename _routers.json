@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "include": [
+    "/page/*",
+    "/wp-*",
+    "/tag/*",
+    "/sharenet/*",
+    "/programming/*",
+    "/vision-recovery*",
+    "/blog/*"
+  ],
+  "exclude": [
+    "/*"
+  ]
+}
