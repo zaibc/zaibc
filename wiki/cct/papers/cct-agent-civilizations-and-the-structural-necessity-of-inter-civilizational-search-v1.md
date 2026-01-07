@@ -2,11 +2,28 @@
 title: "Civilization Causality Theory: Agent Civilizations and the Structural Necessity of Inter-Civilizational Search"
 author: "Chenliang Zhao"
 date: "16 Dec 2025"
+head:
+  - - meta
+    - name: citation_title
+      content: 'Civilization Causality Theory: Agent Civilizations and the Structural Necessity of Inter-Civilizational Search'
+  - - meta
+    - name: citation_author
+      content: Chenliang Zhao
+  - - meta
+    - name: citation_publication_date
+      content: "2025/12/16"
+  - - meta
+    - name: citation_pdf_url
+      content: https://www.zaibc.com/file/cct-agent-civilizations-and-the-structural-necessity-of-inter-civilizational-search-v1.pdf
+  - - meta
+    - name: citation_doi
+      content: 10.5281/zenodo.17946622
 ---
 # Civilization Causality Theory: Agent Civilizations and the Structural Necessity of Inter-Civilizational Search
 > 16 Dec 2025 by **Chenliang Zhao**   
 > **DOI:** https://doi.org/10.5281/zenodo.17946622  
-> **Canonical web version:** https://www.zaibc.com/cct/papers/cct-agent-civilizations-and-the-structural-necessity-of-inter-civilizational-search-v1
+> **Canonical web version:** https://www.zaibc.com/cct/papers/cct-agent-civilizations-and-the-structural-necessity-of-inter-civilizational-search-v1  
+> **PDF:** [Download](https://www.zaibc.com/file/cct-agent-civilizations-and-the-structural-necessity-of-inter-civilizational-search-v1.pdf)
 
 ## Abstract
 

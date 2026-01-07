@@ -2,12 +2,29 @@
 title: "Civilization Causality Theory: A Reference Implementation of Minimal Handshake in Agent Civilizations"
 author: "Chenliang Zhao"
 date: "15 Dec 2025"
+head:
+  - - meta
+    - name: citation_title
+      content: 'Civilization Causality Theory: A Reference Implementation of Minimal Handshake in Agent Civilizations'
+  - - meta
+    - name: citation_author
+      content: Chenliang Zhao
+  - - meta
+    - name: citation_publication_date
+      content: "2025/12/15"
+  - - meta
+    - name: citation_pdf_url
+      content: https://www.zaibc.com/file/cct-a-reference-implementation-of-minimal-handshake-in-agent-civilizations-v1.pdf
+  - - meta
+    - name: citation_doi
+      content: 10.5281/zenodo.17936522
 ---
 
 # Civilization Causality Theory: A Reference Implementation of Minimal Handshake in Agent Civilizations
 > 15 Dec 2025 by **Chenliang Zhao**   
 > **DOI:** https://doi.org/10.5281/zenodo.17936522  
-> **Canonical web version:** https://www.zaibc.com/cct/papers/cct-a-reference-implementation-of-minimal-handshake-in-agent-civilizations-v1
+> **Canonical web version:** https://www.zaibc.com/cct/papers/cct-a-reference-implementation-of-minimal-handshake-in-agent-civilizations-v1  
+> **PDF:** [Download](https://www.zaibc.com/file/cct-a-reference-implementation-of-minimal-handshake-in-agent-civilizations-v1.pdf)
 
 ## Abstract
 

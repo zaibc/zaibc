@@ -2,12 +2,29 @@
 title: "Civilization Causality Theory: Embodied Civilizations and the Structural Convergence Toward Virtualization"
 author: "Chenliang Zhao"
 date: "16 Dec 2025"
+head:
+  - - meta
+    - name: citation_title
+      content: 'Civilization Causality Theory: Embodied Civilizations and the Structural Convergence Toward Virtualization'
+  - - meta
+    - name: citation_author
+      content: Chenliang Zhao
+  - - meta
+    - name: citation_publication_date
+      content: "2025/12/16"
+  - - meta
+    - name: citation_pdf_url
+      content: https://www.zaibc.com/file/cct-embodied-civilizations-and-the-structural-convergence-toward-virtualization-v1.pdf
+  - - meta
+    - name: citation_doi
+      content: 10.5281/zenodo.17946442
 ---
 
 # Civilization Causality Theory: Embodied Civilizations and the Structural Convergence Toward Virtualization
 > 16 Dec 2025 by **Chenliang Zhao**   
 > **DOI:** https://doi.org/10.5281/zenodo.17946442  
-> **Canonical web version:** https://www.zaibc.com/cct/papers/cct-embodied-civilizations-and-the-structural-convergence-toward-virtualization-v1
+> **Canonical web version:** https://www.zaibc.com/cct/papers/cct-embodied-civilizations-and-the-structural-convergence-toward-virtualization-v1  
+> **PDF:** [Download](https://www.zaibc.com/file/cct-embodied-civilizations-and-the-structural-convergence-toward-virtualization-v1.pdf)
 
 ## Abstract
 

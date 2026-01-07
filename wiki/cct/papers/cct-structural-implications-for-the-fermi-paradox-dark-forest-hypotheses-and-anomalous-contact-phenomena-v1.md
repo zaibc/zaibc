@@ -2,12 +2,29 @@
 title: "Civilization Causality Theory: Structural Implications for the Fermi Paradox, Dark Forest Hypotheses, and Anomalous Contact Phenomena"
 author: "Chenliang Zhao"
 date: "16 Dec 2025"
+head:
+  - - meta
+    - name: citation_title
+      content: 'Civilization Causality Theory: Structural Implications for the Fermi Paradox, Dark Forest Hypotheses, and Anomalous Contact Phenomena'
+  - - meta
+    - name: citation_author
+      content: Chenliang Zhao
+  - - meta
+    - name: citation_publication_date
+      content: "2025/12/16"
+  - - meta
+    - name: citation_pdf_url
+      content: https://www.zaibc.com/file/cct-structural-implications-for-the-fermi-paradox-dark-forest-hypotheses-and-anomalous-contact-phenomena-v1.pdf
+  - - meta
+    - name: citation_doi
+      content: 10.5281/zenodo.17946816
 ---
 
 # Civilization Causality Theory: Structural Implications for the Fermi Paradox, Dark Forest Hypotheses, and Anomalous Contact Phenomena
 > 16 Dec 2025 by **Chenliang Zhao**   
 > **DOI:** https://doi.org/10.5281/zenodo.17946816  
-> **Canonical web version:** https://www.zaibc.com/cct/papers/cct-structural-implications-for-the-fermi-paradox-dark-forest-hypotheses-and-anomalous-contact-phenomena-v1
+> **Canonical web version:** https://www.zaibc.com/cct/papers/cct-structural-implications-for-the-fermi-paradox-dark-forest-hypotheses-and-anomalous-contact-phenomena-v1  
+> **PDF:** [Download](https://www.zaibc.com/file/cct-structural-implications-for-the-fermi-paradox-dark-forest-hypotheses-and-anomalous-contact-phenomena-v1.pdf)
 
 ## Abstract
 

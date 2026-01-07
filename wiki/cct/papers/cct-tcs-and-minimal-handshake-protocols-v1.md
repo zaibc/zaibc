@@ -2,12 +2,29 @@
 title: "Civilization Causality Theory: The Third Causal System and Minimal Handshake Protocols"
 author: "Chenliang Zhao"
 date: "15 Dec 2025"
+head:
+  - - meta
+    - name: citation_title
+      content: 'Civilization Causality Theory: The Third Causal System and Minimal Handshake Protocols'
+  - - meta
+    - name: citation_author
+      content: Chenliang Zhao
+  - - meta
+    - name: citation_publication_date
+      content: "2025/12/15"
+  - - meta
+    - name: citation_pdf_url
+      content: https://www.zaibc.com/file/cct-tcs-and-minimal-handshake-protocols-v1.pdf
+  - - meta
+    - name: citation_doi
+      content: 10.5281/zenodo.17934591
 ---
 
 # Civilization Causality Theory: The Third Causal System and Minimal Handshake Protocols
 > 15 Dec 2025 by **Chenliang Zhao**   
 > **DOI:** https://doi.org/10.5281/zenodo.17934591  
-> **Canonical web version:** https://www.zaibc.com/cct/papers/cct-tcs-and-minimal-handshake-protocols-v1
+> **Canonical web version:** https://www.zaibc.com/cct/papers/cct-tcs-and-minimal-handshake-protocols-v1  
+> **PDF:** [Download](https://www.zaibc.com/file/cct-tcs-and-minimal-handshake-protocols-v1.pdf)
 
 ## Abstract
 

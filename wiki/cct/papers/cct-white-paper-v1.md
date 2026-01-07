@@ -3,12 +3,29 @@ title: 'Civilization Causality Theory: White Paper'
 description: 'A Structural White Paper on Consciousness, Civilization, and Inter-Civilizational Contact'
 author: "Chenliang Zhao" 
 date: "18 Dec 2025" 
+head:
+  - - meta
+    - name: citation_title
+      content: 'Civilization Causality Theory: White Paper'
+  - - meta
+    - name: citation_author
+      content: Chenliang Zhao
+  - - meta
+    - name: citation_publication_date
+      content: "2025/12/18"
+  - - meta
+    - name: citation_pdf_url
+      content: https://www.zaibc.com/file/cct-white-paper-v1.pdf
+  - - meta
+    - name: citation_doi
+      content: 10.5281/zenodo.17970195
 ---
 
 # Civilization Causality Theory: White Paper
 > 18 Dec 2025 by **Chenliang Zhao**   
 > **DOI:** https://doi.org/10.5281/zenodo.17970195  
-> **Canonical web version:** https://www.zaibc.com/cct/papers/cct-white-paper-v1
+> **Canonical web version:** https://www.zaibc.com/cct/papers/cct-white-paper-v1  
+> **PDF:** [Download](https://www.zaibc.com/file/cct-white-paper-v1.pdf)
 
 ## Abstract
 

@@ -26,7 +26,7 @@ head:
 > 27 Nov 2025 by **Chenliang Zhao**   
 > **DOI:** https://doi.org/10.5281/zenodo.17877240  
 > **Canonical web version:** https://www.zaibc.com/cct/papers/cct-framework-v1  
-> [Download PDF](https://www.zaibc.com/file/cct-framework-v1.pdf)
+> **PDF:** [Download](https://www.zaibc.com/file/cct-framework-v1.pdf)
 
 ## Abstract
 

@@ -2,13 +2,30 @@
 title: 'SRT Extension I: Reception, Continuity, and Selfhood'
 author: "Chenliang Zhao" 
 date: "31 Dec 2025" 
+head:
+  - - meta
+    - name: citation_title
+      content: 'SRT Extension I: Reception, Continuity, and Selfhood'
+  - - meta
+    - name: citation_author
+      content: Chenliang Zhao
+  - - meta
+    - name: citation_publication_date
+      content: "2025/12/31"
+  - - meta
+    - name: citation_pdf_url
+      content: https://www.zaibc.com/file/srt-extension-1-reception-continuity-and-selfhood-v1.pdf
+  - - meta
+    - name: citation_doi
+      content: 10.5281/zenodo.18106313
 ---
 
 # SRT Extension I: Reception, Continuity, and Selfhood
 
 > 31 Dec 2025 by **Chenliang Zhao**  
 > **DOI:** https://doi.org/10.5281/zenodo.18106313  
-> **Canonical web version:** https://www.zaibc.com/srt/srt-extension-1-reception-continuity-and-selfhood-v1
+> **Canonical web version:** https://www.zaibc.com/srt/srt-extension-1-reception-continuity-and-selfhood-v1  
+> **PDF:** [Download](https://www.zaibc.com/file/srt-extension-1-reception-continuity-and-selfhood-v1.pdf)
 
 ## Abstract
 

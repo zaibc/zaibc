@@ -2,13 +2,30 @@
 title: 'Structural Reasoning Theory (SRT): Foundations and Implications'
 author: "Chenliang Zhao" 
 date: "27 Dec 2025" 
+head:
+  - - meta
+    - name: citation_title
+      content: 'Structural Reasoning Theory (SRT): Foundations and Implications'
+  - - meta
+    - name: citation_author
+      content: Chenliang Zhao
+  - - meta
+    - name: citation_publication_date
+      content: "2025/12/27"
+  - - meta
+    - name: citation_pdf_url
+      content: https://www.zaibc.com/file/srt-white-paper-v1.pdf
+  - - meta
+    - name: citation_doi
+      content: 10.5281/zenodo.18065381
 ---
 
 # Structural Reasoning Theory (SRT): Foundations and Implications  
 *A White Paper*
 > 27 Dec 2025 by **Chenliang Zhao**  
 > **DOI:** https://doi.org/10.5281/zenodo.18065381  
-> **Canonical web version:** https://www.zaibc.com/srt/srt-white-paper-v1
+> **Canonical web version:** https://www.zaibc.com/srt/srt-white-paper-v1  
+> **PDF:** [Download](https://www.zaibc.com/file/srt-white-paper-v1.pdf)
 
 ## Abstract
 

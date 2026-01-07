@@ -3,13 +3,30 @@ title: "Civilization Causality Theory: Causal Incompatibility and the Necessity 
 author: "Chenliang Zhao"
 date: "3 Dec 2025"
 keywords: "Causal Systems; Semantic Alignment; Cross-Civilizational Communication; Third Causal System (TCS); Causal Incompatibility;Information Theory; Astrobiology; Fermi Paradox."
+head:
+  - - meta
+    - name: citation_title
+      content: 'Civilization Causality Theory: Causal Incompatibility and the Necessity of TCS'
+  - - meta
+    - name: citation_author
+      content: Chenliang Zhao
+  - - meta
+    - name: citation_publication_date
+      content: "2025/12/3"
+  - - meta
+    - name: citation_pdf_url
+      content: https://www.zaibc.com/file/cct-causal-incompatibility-tcs-necessity-v1.pdf
+  - - meta
+    - name: citation_doi
+      content: 10.5281/zenodo.17885844
 ---
 
 # Civilization Causality Theory: Causal Incompatibility and the Necessity of TCS
 
 > 3 Dec 2025 by **Chenliang Zhao**   
 > **DOI:** https://doi.org/10.5281/zenodo.17885844  
-> **Canonical web version:** https://www.zaibc.com/cct/papers/cct-causal-incompatibility-tcs-necessity-v1
+> **Canonical web version:** https://www.zaibc.com/cct/papers/cct-causal-incompatibility-tcs-necessity-v1   
+> **PDF:** [Download](https://www.zaibc.com/file/cct-causal-incompatibility-tcs-necessity-v1.pdf)
 
 ## Abstract
 
