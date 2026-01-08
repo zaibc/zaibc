@@ -8,5 +8,8 @@
     "/programming/*",
     "/vision-recovery*",
     "/blog/*"
+  ],
+  "exclude": [
+    "/*"
   ]
 }
