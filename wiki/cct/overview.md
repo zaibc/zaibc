@@ -5,6 +5,48 @@ description: ''
 
 # CCT Overview
 
+::: info Axioms & Epistemic Status
+CCT is a **structural conjecture, not a proof**. Its conclusions follow deductively from a
+small number of **axioms** — premises taken as starting points, not established facts. They
+are stated explicitly here so that any reader can test, accept, or reject the framework at its
+foundations rather than at its conclusions.
+
+**Axioms (the load-bearing premises):**
+
+- **A1 — Continuity-identity of consciousness.**
+  Consciousness is a continuous causal *process*, and the identity of a mind *is* that
+  continuity — not the structure that carries it.
+  *(From this follow: a mind cannot be paused, exactly duplicated, or made structurally immortal.)*
+
+- **A2 — Meaning arises from difference.**
+  Meaning and value exist only relative to contrast and novelty.
+  *(From this follow: for a finite mind, meaning concentrates in **experience**; for a persistent
+  civilization, meaning concentrates in the **discovery of what is not itself**.)*
+
+- **A3 — Scale isomorphism.**
+  A civilization is the same *kind* of object as a mind — a self-consistent causal system —
+  so structural properties established at the level of consciousness transfer to the level of
+  civilization.
+
+**Falsifiable claims (consequences that could, in principle, be wrong):**
+
+- **F1 — Causal incompatibility.** Independently evolved civilizations cannot be aligned by any
+  finite translation or signaling; direct communication is structurally impossible.
+  *Refuted by exhibiting a finite shared substrate that enables alignment without co-construction.*
+
+- **F2 — Virtualization end-state.** Embodied civilizations converge toward virtualized
+  experience as their structurally stable long-term state.
+  *Refuted by a persisting embodied civilization that structurally resists this convergence.*
+
+- **F3 — Minimal handshake.** Pre-semantic first contact reduces to a minimal action set
+  (repetition + copy). This is the one claim presented as a *necessity*, and therefore the most
+  exposed to formal proof or counterexample.
+
+The reasoning below shows how the L0 → L1 → L2 architecture follows from A1–A3. The canonical
+frozen record is the **[White Paper](/cct/papers/cct-white-paper-v1)**
+([DOI: 10.5281/zenodo.17970195](https://doi.org/10.5281/zenodo.17970195)).
+:::
+
 ## Core Structural Reasoning of CCT
 
 Civilization Causality Theory derives its conclusions from a small number of structural premises.

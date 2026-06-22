@@ -36,6 +36,8 @@ hero:
 > CCT treats civilizations as self-consistent causal systems,   
 > and derives consequences from structural constraints rather than observation. 
 
+**The derivation, step by step — and the axioms it rests on → [CCT Overview](/cct/overview)**
+
 - Why advanced civilizations may converge inward rather than expand or communicate. [*[read more](/cct/overview)*] 
 - Why the Fermi Paradox is not a paradox under structural constraints. [*[read more](/essays/20251217-the-fermi-paradox-is-not-a-paradox-a-structural-perspective)*] 
 - Why any possible contact, if it exists, would have to be non-semantic, minimal, and indirect. [*[read more](/essays/20251218-ufos-as-a-structural-phenomenon)*]
